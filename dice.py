@@ -11,7 +11,7 @@ sixes = 0
 cChoices = ["1", "2", "3", "4", "5", "6"]
 print("\n")
 print("Welcome to Dice Roller!")
-loopNumber = input("How many dice rolls will be performed?")
+loopNumber = input("How many 6-sided dice rolls will be performed?")
 print("\n")
 a=0
 while a < int(loopNumber):
